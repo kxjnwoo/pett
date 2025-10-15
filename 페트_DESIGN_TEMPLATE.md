@@ -1223,7 +1223,7 @@ When creating new screens/components, check:
 ## Important
 - Each feature should be implemented based on a deep analysis of the API documentation
 
-### URL of API documentations
+### URLs of API documentation
 - Finnhub API documentation: "https://finnhub.io/docs/api"
 - TradingView Lightweight Charts™ Library API Documentation: "https://tradingview.github.io/lightweight-charts/"
 1. Getting started: "https://tradingview.github.io/lightweight-charts/docs"
